@@ -143,6 +143,12 @@ section {
   padding-top: 50px
 }
 
+@media screen and (max-width: 991px){
+  .banner {
+    height: 100% !important;
+  }
+}
+
 .banner .text-content {
   text-align: center;
 }
